@@ -8,11 +8,11 @@ Requisito diz **o quê**; projeto diz **como** (Vasconcelos et al., 2006, p. 63)
 
 | # | Passo | Pergunta que responde | Saída | Status |
 |---|---|---|---|---|
-| 1 | [Sublinhar as histórias](01-substantivos-e-verbos.md) | Que coisas, ações e estados aparecem no texto? | Lista de candidatos | Rascunho |
-| 2 | [Filtrar os candidatos](02-classes.md) | Quais candidatos viram classe, atributo ou nada? | Diagrama de classes (estrutura) | Rascunho |
-| 3 | [Dar cada regra a um dono](03-responsabilidades.md) | Que classe cuida de cada critério de aceitação? | Métodos, diagramas de estado, matriz história → método → teste | Rascunho |
-| 4 | Desenhar a conversa entre os objetos | Como as classes colaboram numa história? | Diagramas de sequência (US-07, US-08) | A fazer |
-| 5 | Montar as camadas, de baixo para cima | Em que ordem construir, e onde entra o FastAPI? | Ordem de construção, mapa história → endpoint | A fazer |
+| 1 | [Sublinhar as histórias](01-substantivos-e-verbos.md) | Que coisas, ações e estados aparecem no texto? | Lista de candidatos | Pronto |
+| 2 | [Filtrar os candidatos](02-classes.md) | Quais candidatos viram classe, atributo ou nada? | Diagrama de classes (estrutura) | Pronto |
+| 3 | [Dar cada regra a um dono](03-responsabilidades.md) | Que classe cuida de cada critério de aceitação? | Métodos, diagramas de estado, matriz história → método → teste | Pronto |
+| 4 | [Desenhar a conversa entre os objetos](04-sequencia.md) | Como as classes colaboram numa história? | Diagramas de sequência (US-07, US-08) | Pronto |
+| 5 | [Montar as camadas, de baixo para cima](05-aplicacao-fastapi.md) | Em que ordem construir, e onde entra o FastAPI? | Ordem de construção, mapa história → endpoint | Pronto |
 
 ## Duas ideias que não se confundem
 
